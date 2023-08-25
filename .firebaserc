@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "budgetapp-ae3f9": {
+      "hosting": {
+        "budgetapp": [
+          "budgetapp-ae3f9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "budgetapp-ae3f9"
+  }
+}
